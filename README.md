@@ -1,5 +1,4 @@
-# 🔴 Threat Hunt Report — Akira Ransomware Deployment
-### Ashford Sterling Recruitment | January 27, 2026
+# 🔴 Threat Hunt Report — Akira Ransomware Deployment — The Buyer (SancLogic Cyber Range)
 
 ---
 
